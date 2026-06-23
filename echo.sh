@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "harmful script"
+echo "harmful scripta"
